@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="text">Create a UI/UX design for a simple weather application. The app should display current
+weather information for a user-selected location.Create a UI/UX design for a simple weather application. The app should display current
+weather information for a user-selected location.
+</string>
+</resources>
